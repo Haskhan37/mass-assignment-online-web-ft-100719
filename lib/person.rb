@@ -8,3 +8,4 @@ def initialize(attributes)
     self.send(({"#key"}), value)
   end
 end
+end
